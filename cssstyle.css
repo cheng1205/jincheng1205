@@ -1,0 +1,352 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #E0AAFF;
+    margin: 0px;
+    background-image: url(pngtree-personality-cool-purple-splash-powder-picture-image_926967.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+header {
+    background-color: #C77DFF;
+    color: white;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 30px;
+    padding: 30px;
+    font-size: 30px;
+    border-radius: 30%;
+    background-image: url(bg.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+h2 {
+    text-shadow: 10px 10px 7px rgb(0, 0, 0);
+}
+
+header a {
+    padding: 30px 30px;
+    display: initial;
+}
+
+header a:hover {
+    background-color: #8400FF;
+    color: whitesmoke;
+    transition-duration: 1s;
+}
+
+.myself {
+    border-radius: 50%;
+    object-fit: cover;
+    float: left;
+}
+
+section {
+    padding: 40px;
+    background-color: #C77DFF;
+    margin: 1cm 5cm;
+    border-radius: 2%;
+    background-image: url(bg.jfif);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.cen {
+    text-align: center;
+    margin: 1cm 6cm;
+}
+
+div {
+    text-align: center;
+    font-size: 30px;
+    padding: 1px;
+}
+
+.englishname {
+    font-style: italic;
+}
+
+.name {
+    text-shadow: 5px 5px 8px #3a0250;
+}
+
+div a {
+    padding: 10px 10px;
+    display: inline-block;
+}
+
+div a:hover {
+    background-color: #C77DFF;
+    color: rgb(255, 0, 0);
+}
+
+.city {
+    text-align: center;
+    font-style: oblique;
+}
+
+#PYTHON {
+    animation: "bar1" 2s ease-out;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: "bar1";
+    border-right-width: 400px;
+    color: rgb(255, 255, 255)
+}
+
+.skill {
+    margin: 5px;
+    width: 1px;
+    height: 50px;
+    border-right-style: solid;
+    border-right-color: rgb(46, 47, 47);
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    margin-left: 5%;
+}
+
+li {
+    line-height: 80px;
+}
+
+#JAVA {
+    animation: bar2 2s ease-out;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: bar2;
+    border-right-width: 340px;
+    color: rgb(255, 255, 255)
+}
+
+#CSS {
+    animation: bar3 2s ease-out;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: bar3;
+    border-right-width: 580px;
+    color: rgb(255, 255, 255)
+}
+
+#HTML {
+    animation: bar4 2s ease-out;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: bar4;
+    border-right-width: 520px;
+    color: rgb(255, 255, 255)
+}
+
+#JAVASCRIPT {
+    animation: bar5 2s ease-in-out;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: bar5;
+    border-right-width: 290px;
+    color: rgb(255, 255, 255)
+}
+
+#R {
+    animation: bar6 2s ease-out;
+    animation-duration: 2s;
+    animation-timing-function: ease-out;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: bar6;
+    border-right-width: 290px;
+    color: rgb(255, 255, 255)
+}
+
+.percent {
+    margin-left: 295px;
+}
+
+.percent2 {
+    margin-left: 280px;
+}
+
+.percent3 {
+    margin-left: 550px;
+}
+
+.percent4 {
+    margin-left: 450px;
+}
+
+.percent5 {
+    margin-left: 130px;
+}
+
+.percent6 {
+    margin-left: 280px;
+}
+
+.newcontest {
+    border-radius: 5%;
+    padding: 2px;
+    margin: 20px 70px;
+}
+
+h1 {
+    font-style: inherit;
+    font-size: 30px;
+    border-style: dotted;
+    text-align: center;
+    border-radius: 5%;
+    margin: 1px 11cm;
+    padding: 0;
+    border-color: aliceblue;
+
+}
+
+.nt {
+    float: left;
+    background-color: #8400FF;
+    color: aliceblue;
+    border-radius: 5%;
+
+}
+
+
+
+.ntr {
+    text-align: center;
+    background-color: #8400FF;
+    color: aliceblue;
+    border-radius: 5%;
+    padding: 1px;
+    margin: 2px 13cm;
+
+}
+
+.contest {
+    border-radius: 5%;
+    margin: 40px 100px;
+}
+
+footer {
+    background-color: #C77DFF;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 26px;
+}
+
+.top {
+    position: fixed;
+    top: 90%;
+    left: 93%;
+
+}
+
+.play img {
+    transform: scale(1, 1);
+    transition: all 1s ease-out;
+}
+
+.play img:hover {
+    transform: scale(1.5, 1.5);
+}
+
+
+.py1 img {
+    transform: scale(1, 1);
+    transition: all 1s ease-out;
+    margin: 1cm 2.4cm;
+    text-align: center;
+}
+
+.py1 img:hover {
+    transform: scale(2, 2);
+}
+
+.myself img {
+    transform: scale(1, 1);
+    transition: all 1s ease-out;
+}
+
+.myself img:hover {
+    transform: scale(1.5, 1.5);
+}
+
+.bask img {
+    transform: scale(1, 1);
+    transition: all 0.6s ease-out;
+    margin: 1cm 2.4cm;
+    text-align: center;
+}
+
+.bask img:hover {
+    transform: scale(1.2, 1.2);
+}
+
+.share {
+    margin: 2cm 2.1cm;
+    padding: 2px;
+    float: right;
+    font-size: 20px;
+    border: black;
+    border-style: double;
+    border-radius: 10%;
+
+}
+
+.sha {
+    margin: 1.6cm 1.5cm;
+    padding: 2px;
+    float: right;
+    font-size: 20px;
+    border: black;
+    border-style: double;
+    border-radius: 10%;
+}
+
+.shar {
+    margin: 2.8cm 1.5cm;
+    padding: 2px;
+    float: right;
+    font-size: 20px;
+    border: black;
+    border-style: double;
+    border-radius: 10%;
+}
